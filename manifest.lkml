@@ -2,7 +2,7 @@
 
 constant: CONNECTION {
   # Enter the name of the Looker connection to use
-  value: ""
+  value: "sample_bigquery_connection"
   export: override_optional
 }
 
