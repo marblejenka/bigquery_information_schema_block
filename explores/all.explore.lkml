@@ -21,7 +21,7 @@ view: none {
 
 explore: all {
   from: none
-  hidden: yes
+  hidden: no
   description: "This explore combines a number of tables together for more convenient analysis along co-dimensions"
 
   always_filter: {
