@@ -10,6 +10,7 @@ view: tables {
     filters: [table_name: "-NULL"]
   }
 
+
   # Dimension group: identifiers {
 
   dimension: table_full_path {
